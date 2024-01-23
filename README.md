@@ -12,8 +12,6 @@ Guitar is an stringed instrument which was originated in early 16thcentury.
  
  ### _Acoustic Guitar_
  It contains 6 steel strings, a sound hole and there is no requirement of an amplifier to play an acoustic guitar. It is used in various music genre including Classical, Jazz, Pop, Blues, Country, Rhythm and Blues, Folk, Classical Rock.
- ![image](https://github.com/vidhi7x/intstrumental_knowledge/assets/134609235/70bdafa6-7afc-4349-943a-4dff823117eb)
-
  
  ### _Classical Guitar_
  Classical guitars are comparatively smaller in size than an acoustic guitar, it has nylon strings which are much easier to the fret than steel strings, classical guitar is more known for its responsive fingerpicking styles and warm nylon sound, they are paired with wide fretboard to make fingerstyle licks even easier. It used in the music genre such as Classical, Jazz, Folk, and Pop.
