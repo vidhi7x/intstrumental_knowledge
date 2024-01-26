@@ -15,9 +15,11 @@ Guitar is an stringed instrument which was originated in early 16thcentury.
  
    <image src="https://github.com/vidhi7x/intstrumental_knowledge/assets/134609235/850c1b32-a938-4e08-832a-0de073270730" width="200"> 
 
- 
- ### _Classical Guitar_
+  ### _Classical Guitar_
  Classical guitars are comparatively smaller in size than an acoustic guitar, it has nylon strings which are much easier to the fret than steel strings, classical guitar is more known for its responsive fingerpicking styles and warm nylon sound, they are paired with wide fretboard to make fingerstyle licks even easier. It used in the music genre such as Classical, Jazz, Folk, and Pop.
+
+ <image src="https://github.com/vidhi7x/intstrumental_knowledge/assets/134609235/c4e87a47-61ff-4a80-a03e-b9dffbfe5c86" width="200">
+
  
  ### _Electric Guitar_
  Electric guitar majorly defined as rock. In contrast to acoustic and classical guitar electric guitar derive their tone from the pickups, they are heavier than acoustic guitar. Electric guitar require amplifier to produce good sound to modify sound even more different effect pedals can be used. Fender Stratocaster, and Gibson Les Paul are most famous guitars also used by famous musicians such as Jimi Hendrix, Slash, Kurt Cobain.Genre it is used in are blues, rock, metal, jazz.
