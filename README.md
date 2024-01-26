@@ -13,7 +13,7 @@ Guitar is an stringed instrument which was originated in early 16thcentury.
  ### _Acoustic Guitar_
  It contains 6 steel strings, a sound hole and there is no requirement of an amplifier to play an acoustic guitar. It is used in various music genre including Classical, Jazz, Pop, Blues, Country, Rhythm and Blues, Folk, Classical Rock.
  
- <image src="https://github.com/vidhi7x/intstrumental_knowledge/assets/134609235/850c1b32-a938-4e08-832a-0de073270730" width="200"> 
+               <image src="https://github.com/vidhi7x/intstrumental_knowledge/assets/134609235/850c1b32-a938-4e08-832a-0de073270730" width="200"> 
 
  
  ### _Classical Guitar_
