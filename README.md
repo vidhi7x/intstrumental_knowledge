@@ -20,8 +20,7 @@ Guitar is an stringed instrument which was originated in early 16thcentury.
 
  <image src="https://github.com/vidhi7x/intstrumental_knowledge/assets/134609235/c4e87a47-61ff-4a80-a03e-b9dffbfe5c86" width="200">
 
- 
- ### _Electric Guitar_
+  ### _Electric Guitar_
  Electric guitar majorly defined as rock. In contrast to acoustic and classical guitar electric guitar derive their tone from the pickups, they are heavier than acoustic guitar. Electric guitar require amplifier to produce good sound to modify sound even more different effect pedals can be used. Fender Stratocaster, and Gibson Les Paul are most famous guitars also used by famous musicians such as Jimi Hendrix, Slash, Kurt Cobain.Genre it is used in are blues, rock, metal, jazz.
  
  ### _Bass Guitar_
