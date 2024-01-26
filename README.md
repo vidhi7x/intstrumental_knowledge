@@ -36,4 +36,5 @@
  <image src="https://github.com/vidhi7x/intstrumental_knowledge/assets/134609235/311fda76-859f-4f3a-92a3-055358b21200" width="200">
 
 
+
  Allover guitar is an important instrument for all genre of music, every type of guitar has its own sound, and speciality, different guitar fits with           different music genre, this instrument help to express you more, classic guitar fingerpicking can make you do flamenco dance, electric guitar riffs and solos  can make you do headbang and acoustic guitar strumming can make you feel relax.Guitar continues to touch our heart and soul with its melodious strings.
